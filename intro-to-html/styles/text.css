@@ -1,0 +1,45 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+  .videotitle{
+    width: 30px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+
+  .viewstitle{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
+
+  .marquestitle{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 25px;
+  }
+
+  .techtitle{
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 110px;
+  }
+
+  .shoptitle{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .spanexample:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  }
